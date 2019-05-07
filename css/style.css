@@ -59,7 +59,9 @@ body{
     }
     
     
-    
+    .container_12{
+      margin-top:80px;
+    }
   
     /*.container{
         box-sizing: border-box;
@@ -77,6 +79,7 @@ body{
         font-size: 22px;
       }
       */
+
       nav{
         float: right;
         margin-top: 15px;
@@ -273,6 +276,13 @@ body{
         color:#333;
         text-align: center;
       }
+      .row grid_12{
+        height: 40%;
+      }
+      .img-first{
+        float:left;width:15%;height:4%
+      }
+      .footer_p{text-align: left;font-size:1rem;color:white;}
      /* footer{
       
         overflow: hidden;
@@ -731,7 +741,10 @@ body{
         zoom: 1;
       }
       
-      
+      h3{
+        font-family: 'Courier New', Courier, monospace;
+        color:white;
+      }
       
     /* --------footer---------- */
     
